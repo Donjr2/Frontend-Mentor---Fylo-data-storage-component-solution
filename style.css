@@ -174,7 +174,7 @@ body {
     align-items: flex-end;
     height: fit-content;
     gap: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
   .first-area {
     width: 40%;
@@ -192,7 +192,7 @@ body {
   .second-bottom-area {
     position: absolute;
     right: 130px;
-    top: -18px;
+    top: -14px;
   }
   .second-bottom-area .data-left {
     border-radius: 10px 10px 0px 10px;
