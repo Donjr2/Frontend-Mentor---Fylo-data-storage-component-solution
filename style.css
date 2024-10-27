@@ -62,6 +62,7 @@ body {
   background: var(--darkBlue);
   border-radius: 10px 100px 10px 10px;
   margin-bottom: 16px;
+  box-shadow: 0 15px 30px -20px var(--veryDarkBlue);
 }
 .first-bottom-area {
   display: flex;
@@ -86,6 +87,7 @@ body {
   padding: 32px;
   background: var(--darkBlue);
   border-radius: 10px;
+  box-shadow: 0 38px 50px -30px var(--veryDarkBlue);
 }
 .second-area h1 {
   font-size: 0.875rem;
@@ -172,7 +174,7 @@ body {
     align-items: flex-end;
     height: fit-content;
     gap: 30px;
-    margin: 10px 0;
+    margin-bottom: 16px;
   }
   .first-area {
     width: 40%;
